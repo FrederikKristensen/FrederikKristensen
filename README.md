@@ -5,8 +5,8 @@
 - ⌨️ I am focusing on Web mostely
 
 - My skills:
-    - 5 :star: out of 5 in Html <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    - 4 :star: out of 5 in Css <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    - 5 :star: out of 5 in Html
+    - 4 :star: out of 5 in Css
     - 4 :star: out of 5 in Javascript
     - 3 :star: out of 5 in Powershell
     - 3 :star: out of 5 in Python
@@ -14,8 +14,15 @@
 
 - Things I want to Learn:
     - Improve knowlegde of Typescript
-    - <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> Sass (Scss)
-- Docker
+    - Sass (Scss)
+    - Docker
+
+- My intrests
+    - I love chocolate :chocolate_bar:
+    - I love punk rock :metal:
+    - Like having a beer with friends :beers:
+    - I play Videogames in my freetime :video_game:
+    - Traning :muscle:
 
 📫 Reach me on my mail: frede4947@gmail.com
 
