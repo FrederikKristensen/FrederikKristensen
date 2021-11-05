@@ -11,9 +11,11 @@
     - 3 :star: out of 5 in Powershell
     - 3 :star: out of 5 in Python
     - 2 :star: out of 5 in Typescript
+    - 2 :star: out of 5 in React
 
 - Things I want to Learn:
     - Improve knowlegde of Typescript
+    - Improve knowlegde of React
     - Sass (Scss)
     - Docker
 
