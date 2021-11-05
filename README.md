@@ -19,10 +19,10 @@
     - Sass (Scss)
     - Docker
 
-- My intrests
+- My interests:
     - I love chocolate :chocolate_bar:
     - I love punk rock :metal:
-    - Like having a beer with friends :beers:
+    - Like having a beer with interesting people :beers:
     - I play Videogames in my freetime :video_game:
     - Traning :muscle:
 
