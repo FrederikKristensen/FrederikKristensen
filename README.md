@@ -1,30 +1,33 @@
 ### Hi I'm Frederik Kristensen 👋
 
-## I am a student on Zealand, for computer science 
+## I am a student on Kea, for web development
 
 - ⌨️ I am focusing on Web mostely
 
-- My skills:
-    - 5 :star: out of 5 in Html
-    - 4 :star: out of 5 in Css
-    - 4 :star: out of 5 in Javascript
-    - 3 :star: out of 5 in Powershell
-    - 3 :star: out of 5 in Python
-    - 2 :star: out of 5 in Typescript
-    - 2 :star: out of 5 in React
+- 🧠 My skills:
+    - Web
+        - Html
+        - Css
+        - Javascript
+    - Programming
+        - Python
+        - Powershell
 
-- Things I want to Learn:
-    - Improve knowlegde of Typescript
+- 🥅 Things I want to Learn:
+    - Improve knowlegde of Javascript
     - Improve knowlegde of React
-    - Sass (Scss)
+    - Vue js
+    - Tailwind
     - Docker
 
-- My interests:
-    - I love chocolate :chocolate_bar:
-    - I love punk rock :metal:
-    - Like having a beer with interesting people :beers:
-    - I play Videogames in my freetime :video_game:
-    - Traning :muscle:
+- 🌟 My interests:
+    - I love chocolate 🍫
+    - Fan of punk rock 🤘
+    - Love having a beer and a good talk 🍻
+    - I play Videogames in my freetime 🎮
+    - Hitting the gym 💪
+
+- 👨‍🎓 Education:
+    - Computer science on Zealand
 
 📫 Reach me on my mail: frede4947@gmail.com
-
