@@ -1,28 +1,29 @@
 ### Hi I'm Frederik Kristensen 👋
 
-## I am a student on Kea, for web development
-
-- ⌨️ I am focusing on Web mostely
+- ⌨️ I am learning web development
 
 - 🧠 My skills:
     - Web
         - Html
         - Css
         - Javascript
+        - React
     - Programming
         - Python
         - Powershell
 
 - 🥅 Things I want to Learn:
     - Improve knowlegde of Javascript
-    - Improve knowlegde of React
-    - Vue js
+    - Mern stack
+        - Mongo DB
+        - Express js
+        - Improve knowlegde of React
+        - Node js
     - Tailwind
-    - Docker
 
 - 🌟 My interests:
     - I love chocolate 🍫
-    - Fan of punk rock 🤘
+    - Fan of punk rock and metalcore 🤘
     - Love having a beer and a good talk 🍻
     - I play Videogames in my freetime 🎮
     - Hitting the gym 💪
