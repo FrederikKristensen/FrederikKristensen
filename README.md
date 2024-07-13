@@ -13,7 +13,7 @@
         - Powershell
 
 - 🥅 Things I want to Learn:
-    - Mern stack
+    - MERN stack
         - Mongo DB
         - Express js
         - React
