@@ -8,16 +8,15 @@
         - Css
         - Javascript
         - React
-    - Programming
+    - Programming (Minor knowledge)
         - Python
         - Powershell
 
 - 🥅 Things I want to Learn:
-    - Improve knowlegde of Javascript
     - Mern stack
         - Mongo DB
         - Express js
-        - Improve knowlegde of React
+        - React
         - Node js
     - Tailwind
 
