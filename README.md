@@ -7,10 +7,6 @@
         - Html
         - Css
         - Javascript
-        - React
-    - Programming (Minor knowledge)
-        - Python
-        - Powershell
 
 - 🥅 Things I want to Learn:
     - MERN stack
