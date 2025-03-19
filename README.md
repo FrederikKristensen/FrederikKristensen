@@ -7,6 +7,10 @@
         - Html
         - Css
         - Javascript
+          
+- 📝 Things I am learning right now:
+    - Typescript
+    - React 
 
 - 🥅 Things I want to Learn:
     - MERN stack
