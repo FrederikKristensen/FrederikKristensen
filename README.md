@@ -1,27 +1,46 @@
 ### Hi I'm Frederik Kristensen 👋
 
-- ⌨️ I am learning web development
+- ⌨️ I am learning web development. I have jumped around alot between programming fields, so my intetion is to focus down on React and its ecosystem. Just to name a few I have worked with, azure database(SQL), scripted a IT support tool that reinstalled printers (Powershell), Temperature scanner with raspberry pies (Python), Took the temperature scannings from the pie send it to our a API we made (C#), web app that took the data from our API and displayed it (Vue.js), minor projects (C#) with htmx UIs. While I can jump around in fields, I now aim to get a good understanding in one field. My intetion with focusing on one field is to break in to the job market. While I still have the value of being flexiable as a programmer. 
 - 🧠 My skills:
     - Web
         - Html
         - Css
+            - Bootstrap
         - Javascript
-        - React
+            - React
+            - Typescript
     - Minor exp
         - Python
+        - Vue.js
         - C#
+        - Htmx
         - Powershell
-          
+        - SQL
+
 - 📝 Things I am learning right now:
-    - Typescript
     - Tailwind
+    - Node.js
+    - Prettier
+    - Eslint
 
 - 🥅 Things I am aiming to Learn:
-    - MERN stack
-        - Mongo DB
-        - Express js
-        - React
-        - Node js
+    - Frontend
+        - Html
+        - Css
+            - Bootstrap
+            - tailwind
+        - Javascript
+            - Typescript
+            - React.js
+    - Backend
+        - Node.js
+            - Express.js
+        - MongoDB
+    - Testing
+        - Jest
+    - Linter/Formatters
+        - Eslint
+        - Prettier 
 
 - 🌟 My interests:
     - I love chocolate 🍫
