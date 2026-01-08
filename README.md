@@ -1,6 +1,13 @@
 ### Hi I'm Frederik Kristensen 👋
 
-- ⌨️ I am learning web development. I have jumped around alot between programming fields, so my intetion is to focus down on React and its ecosystem. Just to name a few I have worked with, azure database(SQL), scripted a IT support tool that reinstalled printers (Powershell), Temperature scanner with raspberry pies (Python), Took the temperature scannings from the pie send it to our a API we made (C#), web app that took the data from our API and displayed it (Vue.js), minor projects (C#) with htmx UIs. While I can jump around in fields, I now aim to get a good understanding in one field. My intetion with focusing on one field is to break in to the job market. While I still have the value of being flexiable as a programmer. 
+- ⌨️ I am learning web development. I have jumped around alot between programming fields, so my intetion is to focus down on React and its ecosystem for now. While I can jump around in fields, I now aim to get a good understanding in one field. My intetion with focusing on one field is to break in to the job market. While I still have the value of being flexiable as a programmer. Under here is some examples of work I have done.
+    - Azure database(SQL).
+    - Scripted a IT support tool that reinstalled printers (Powershell).
+    - Temperature scanner with raspberry pies (Python).
+    - Took the temperature scannings from the pie send it to our a API we made (C#).
+    - Web app that took the data from our API and displayed it (Vue.js).
+    - Minor projects (C#) with UIs (Htmx).
+
 - 🧠 My skills:
     - Web
         - Html
