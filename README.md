@@ -31,23 +31,11 @@
     - Node.js
 
 - 🥅 Things I am aiming to Learn:
-    - Frontend
-        - Html
-        - Css
-            - Bootstrap
-            - Tailwind
-        - Javascript
-            - Typescript
-            - React.js
     - Backend
         - Node.js
             - Express.js
         - MongoDB
     - Testing
-        - Jest
-    - Linter/Formatters
-        - Eslint
-        - Prettier 
 
 - 🌟 My interests:
     - I love chocolate 🍫
